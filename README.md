@@ -1,7 +1,9 @@
 # Project1---Team_BigBend
+### Traffic Desnity vs. Traffic Incidents
  
 ![alt test](Traffic_Density/Pictures/Texas.png)
 
+## Annual Average Daily Traffic Data 
 
 #### Data Retrival
 To understand how motor vehicle incidents in Austin correlates with is a traffic, I thought it was important to show how traffic has changed in the the city. To calculate this we used the Annual Average Daily Traffic (AADT) and the data was retreived from TxDot (http://gis-txdot.opendata.arcgis.com/datasets/txdot-aadt-annuals). This data separates most columns by year and has a column named T_Flag which indicates the count station that the values are taken from. That DataFrame also has columns to represent the location of the count station. The Texas shaped figure above represents all the count stations in Texas. Below is an example of what the data looks like from TXdot API.  
