@@ -21,6 +21,3 @@ Using this data, I was able to calculate an estimate of the Traffic Density. The
 
 ![alt test](Traffic_Density/Pictures/Traffic_Density.png)
 
-
-
-
