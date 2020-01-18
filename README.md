@@ -51,3 +51,21 @@ The dotted line shows the percent of traffic incidents recorded at each hour. We
 
 Overall we can see that there is an increasing level of traffic volume, especially during peak hours but there doesn't seem to be a direct relationship between traffic volume and incident rates. However we can see that there does seem to be some relationship between the time of day and incident rates as they are much higher at later hours of the day. It is important to keep in mind that this data is not representative of all vehicles on the roads throughout the city as many cars on the road are not equipped with bluetooth devices. Furthermore a wide variety of factors can affect the accurate recording of data for the bluetooth stations such as weather, construction, accidents, seasonal travel patterns and much more. 
 
+
+
+## Traffic Event Impact On Vehicle Speed
+
+
+### Data Retrival
+
+In order to illustrate the relationship between the number of traffic events to the vehicle speed on Lamar Blvd. we utilized data from two APIs hosted on <a href="https://data.austintexas.gov" rel="nofollow">data.austintexas.gov</a>. There was a sizeable amount of data so we narrowed the lens on in this section to just Lamar Blvd. One API contained bluetooth travel sensort data that showed the travel time and speed between various points. The second API listed traffic incident data. The bluetooth data contained a large volume of records in which we stored the data on a MySQL database. We merged the two data sets into a single data frame to illustrate correlation between traffic events and the travel time. 
+
+![Speed Data](traffic_incident_apis/data.austin/Images/speed_df.png)
+
+ 
+
+### Analysis
+
+The figure below shows that as the number of incidents per day increases so does the percent decrease in vehicle speed. Also the point at which the the travel time exceeds the baseline is somewhere between nine to ten incidents.
+
+![Incident Impact](traffic_incident_apis/data.austin/Images/incident_impact.png)
