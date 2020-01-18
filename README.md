@@ -1,6 +1,4 @@
 # Project1---Team_BigBend
-
-# Project1---Team_BigBend
  
 ![alt test](Traffic_Density/Pictures/Texas.png)
 
