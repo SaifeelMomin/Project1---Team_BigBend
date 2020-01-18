@@ -15,9 +15,9 @@ The origin dataset consisted of over 88 million rows of data collected over the 
 
 The first dataframe shown below is the raw data we recieve from the data.austin API, from here a series of transformations were applied to format and clean up the dataset so that it could be organized into specific roads, years, and hours as shown in the cleaned up dataset in the second dataframe. 
 
-![Raw Dataset](Images/raw_35.PNG)
+![Raw Dataset](Images/raw_35.png)
 
-![Cleaned Dataset](Images/clean_df.PNG)
+![Cleaned Dataset](Images/clean_df.png)
 
 
 
