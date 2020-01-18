@@ -51,4 +51,3 @@ The dotted line shows the percent of traffic incidents recorded at each hour. We
 
 Overall we can see that there is an increasing level of traffic volume, especially during peak hours but there doesn't seem to be a direct relationship between traffic volume and incident rates. However we can see that there does seem to be some relationship between the time of day and incident rates as they are much higher at later hours of the day. It is important to keep in mind that this data is not representative of all vehicles on the roads throughout the city as many cars on the road are not equipped with bluetooth devices. Furthermore a wide variety of factors can affect the accurate recording of data for the bluetooth stations such as weather, construction, accidents, seasonal travel patterns and much more. 
 
-
