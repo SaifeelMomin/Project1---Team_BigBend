@@ -8,7 +8,7 @@ Has Traffic in Austin been getting worse over the years? What is the worst time 
 
 
 Below is an example of what the data looks like from TXdot API. 
-![alt test](Pictures/txdot_api_data.png)
+![alt test](Pictures/txdot_api_data.PNG)
 
 
 The graph below shows the trend of traffic density from 2014 to 2018. Using two points on I35 and Mopac we were able to calculate the traffic desity on two of Austin's major Highways. We calculated traffic density by averaging the annual daily traffic between the two points and then dividing the length between the two points. The distance between each site is about 4 miles. Looking at the figure, I35 looks like it did not increase much but when looking at the numbers the 4 miles on I35 increased by 15,000 and on Mopac, the density increased by 45,000.
