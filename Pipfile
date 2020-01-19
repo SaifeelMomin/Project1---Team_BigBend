@@ -16,9 +16,12 @@ openpyxl = "*"
 plotly = "*"
 ipywidgets = "*"
 ipython = "*"
+sqlalchemy = "*"
+pymysql = "*"
+jupyter = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
 
 [pipenv]
 allow_prereleases = true
