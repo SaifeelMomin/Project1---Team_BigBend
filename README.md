@@ -1,5 +1,8 @@
 # Project1---Team_BigBend
-### Traffic Desnity vs. Traffic Incidents
+
+#### Introduction
+
+For our project we decided to take a look at one of the biggest problems everyone living in Austin deals with on a daily basis, traffic, and its relation to traffic incident rates. We have seen the levels of traffic volume grow over the years and wanted to find out if this increase in traffic volume had an effect on incident rates. To do this we collected traffic data for major highways and roads throughout the city and analyzed them for underlying patterns and trends in traffic volume over the years. Once we did this we collected data on traffic incidents throught Austin and compared compared changes in incident rates over the years and their relationship to the increasing traffic desnities 
  
 ![alt test](Traffic_Density/Pictures/Texas.png)
 
@@ -24,8 +27,6 @@ Using this data, I was able to calculate an estimate of the Traffic Density. The
 ![alt test](Traffic_Density/Pictures/Traffic_Density.png)
 
 ## Bluetooth Sensor Traffic Data 
-For our project we decided to take a look at one of the biggest problems everyone living in Austin deals with on a daily basis, traffic, and its relation to traffic incident rates. We have seen the levels of traffic volume grow over the years and wanted to find out if this increase in traffic volume had an effect on incident rates. To do this we collected traffic data for major highways and roads throughout the city and analyzed them for underlying patterns and trends in traffic volume over the years. Once we did this we collected data on traffic incidents throught Austin and compared compared changes in incident rates over the years and their relationship to the increasing traffic desnities 
-
 
 #### Data Retrival
 
